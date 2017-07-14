@@ -1,0 +1,22 @@
+header {
+height: 70px;
+background: black;
+text-align: center;
+color: white;
+ fontfamily: arial;
+
+}
+
+body {
+background: antiquewhite;
+  }
+
+img {
+  height: 200px;
+  border: 5px solid black;
+  float: left;
+  
+ margin-right: 10px; 
+  
+}
+
